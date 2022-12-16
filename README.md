@@ -24,7 +24,7 @@ cd MyFirstProject
 
 > npm start
 
-# enter <sub>W</sub> to run the app in web browser
+# enter W to run the app in web browser
 
 ```
 
