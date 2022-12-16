@@ -30,7 +30,7 @@ Create/initialise the project with expo:
 > cd MyFirstProject
 ```
 
-<p> Following command will insall all the dependencies required to run your app on browser </p>
+<p> Following command will install all the dependencies required to run your app on browser </p>
 
 ```
 > npx expo install react-native-web@~0.18.9 react-dom@18.1.0 @expo/webpack-config@^0.17.2
