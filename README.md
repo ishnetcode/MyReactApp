@@ -3,7 +3,7 @@ This is for learning purpose
 
 # Getting started:
 
-1) Clone this Repo
+1) Clone this Repo or create new folder in your local
 ```
 git clone https://github.com/ishnetcode/MyReactApp.git
 ```
