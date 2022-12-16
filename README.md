@@ -14,13 +14,18 @@ cmd to the cloned repository
 
 > code . 
 
-[comment]: <>
-
 > npm install -g expo-cli
 
 > expo init MyFirstProject
 
 cd MyFirstProject
+
+> npx expo install react-native-web@~0.18.9 react-dom@18.1.0 @expo/webpack-config@^0.17.2
+
+> npm start
+
+# enter <sub>W</sub> to run the app in web browser
+
 ```
 
 
